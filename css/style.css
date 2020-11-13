@@ -101,3 +101,21 @@ Slider Area
 .service_area .child_service h4 a:hover{}
 .service_area .child_service p{color: #000000; font-size: 14px; opacity: 0.5;}
 
+
+
+/*
+Contact Section
+*/
+.contact_area{background:url(img/slider3.jgeg); background-size: cover; background-color: #101f38;
+    padding: 50px 0; width: 100%; overflow: hidden;}
+.contact_area .inner_contact{width: 900px; max-width: 100%; overflow: hidden; margin: 0 auto;}
+.contact_area .inner_contact h2.title{text-align: center; font-weight: 400; font-size: 35px;color: #fff;}
+.contact_area .main_contact_form{width: 100%; overflow: hidden; margin-top: 20px; text-align: center; }
+.contact_area .main_contact_form input{background: #fff; border: 0; width: 42%; padding: 15px 3%;
+    float: left; margin: 0 1% 2%; border-radius: 5px;}
+.contact_area .main_contact_form textarea{background: #fff; border: 0; width: 92%; padding: 15px 3%;
+    margin: 0 1% 2%; min-height: 100px;}
+.contact_area .main_contact_form input[type="submit"]{background: #974558; width: 250px; margin: 0 auto;
+    color: #fff; font-weight: 600; font-size: 21px; text-transform: uppercase; float: none; 
+    border-radius: 25px; cursor: pointer; transition: 0.5s;}
+.contact_area .main_contact_form input[type="submit"]:hover{background: #6a3144;}
