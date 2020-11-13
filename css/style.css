@@ -57,3 +57,13 @@ Main Menu
 .main_menu ul li a:hover{background: #6a3144;}
 
 
+/*
+Slider Area
+*/
+ .slider_area{margin: 0; width: 100%; overflow: hidden;height: auto; position: relative;}
+ .search_area .bx-wrapper{border: none;}
+ .bx-wrapper img{height: 400px; width: 100%;}
+ .search_area .slider_images{}
+ .search_area .slider_images img{display: block; margin: 0; width: 100%; height: 200px;}
+
+

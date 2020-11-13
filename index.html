@@ -9,6 +9,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/fontawesome.min.css">
     <link rel="stylesheet" href="css/all.min.css">
+    <link rel="stylesheet" href="css/bxslider.css">
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
@@ -58,5 +59,32 @@
         <!-- Nav Section End -->
     </header>
     <!-- Header Section End -->
+
+
+    <!--Nav Section Start-->
+        <section class="slider_area">
+            <div class="slider">
+                <div class="slider_images">
+                    <img src="img/main_slider.jpg" alt="Slider-Image">
+                </div>
+                <div class="slider_images">
+                    <img src="img/main_slider1.jpg" alt="Slider-Image">
+                </div>
+            </div>
+        </section>
+    <!--Nav Section End-->
+
+
+<!--Js Section-->
+    <script src="js/jquery.min.js"></script>
+    <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script> -->
+    <script src="js/bxslider.min.js"></script>
+
+  <script>
+    $(document).ready(function(){
+      $('.slider').bxSlider();
+    });
+  </script>
+<!--Js Section End-->
 </body>
 </html>
