@@ -44,3 +44,16 @@ Logo Section
 */
 .logo_area{width: 220px; max-width: 100%; margin: 10px auto; text-align: center;}
 .logo_area img{height: 60px;}
+
+
+/*
+Main Menu
+*/
+.main_menu{background: #974558; height: 52px;}
+.main_menu ul{margin: 0 auto; padding: 0; list-style: none; text-align: center;}
+.main_menu ul li{display: inline-block; margin: 0 5px;}
+.main_menu ul li a{color: #fff; font-size: 14px; font-variant: 600; text-transform: uppercase;
+        display: block; padding: 15px 20px;}
+.main_menu ul li a:hover{background: #6a3144;}
+
+
