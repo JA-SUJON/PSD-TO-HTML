@@ -82,3 +82,22 @@ Slider Area
  .welcome_area .right_welcome img{padding: 95px;}
 
 
+ /*
+ Our Service Section
+ */
+.service_area{background: #f5f5f5; padding: 50px 0; width: 100%; overflow: hidden;}
+.service_area .inner_service{overflow: hidden;}
+.service_area .inner_service h2.title{text-align: center; color: #6a3144; font-size: 48px; 
+    font-weight: 600; margin-bottom: 0;}
+.service_area .inner_service p.sub_title{text-align: center; font-size: 18px;}
+.service_area .main_service{width: 100%; overflow: hidden; margin-top: 20px;}
+.service_area .child_service{width: 225px; padding: 130px 60px 80px 105px; float: left; 
+    position: relative; transition: 0.5s; cursor: pointer;}
+.service_area .child_service:hover{background: #fff; box-shadow: 10px 10px 10px #add;}
+.service_area .child_service h3{color: #523872; font-size: 100px; font-weight: 700; opacity: 0.1;
+    position: absolute; left: 60px; top: -28px;}
+.service_area .child_service h4{font-size: 20px; font-weight: 700; text-transform: uppercase;margin-top: 20px;}
+.service_area .child_service h4 a{color: #523872;}
+.service_area .child_service h4 a:hover{}
+.service_area .child_service p{color: #000000; font-size: 14px; opacity: 0.5;}
+
