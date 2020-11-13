@@ -1,0 +1,8 @@
+/*
+    =>google fonts
+    =>minify css
+    =>bxslider
+    
+
+
+*/
