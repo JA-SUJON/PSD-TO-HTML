@@ -37,3 +37,10 @@ Top Header Area
 .top_header_area .search_area input[type="submit"]:hover{background: #97455f; 
     color: #fff; }
 
+
+
+/*
+Logo Section 
+*/
+.logo_area{width: 220px; max-width: 100%; margin: 10px auto; text-align: center;}
+.logo_area img{height: 60px;}
