@@ -119,3 +119,16 @@ Contact Section
     color: #fff; font-weight: 600; font-size: 21px; text-transform: uppercase; float: none; 
     border-radius: 25px; cursor: pointer; transition: 0.5s;}
 .contact_area .main_contact_form input[type="submit"]:hover{background: #6a3144;}
+
+
+
+/*
+Footer Area
+*/
+.footer_area{background: #fff; padding: 30px 0; width: 100%; overflow: hidden;}
+.footer_area .inner_footer{overflow: hidden;}
+.footer_area .footer_logo{width: 420px; max-width: 80%; margin: 0 auto 20px; text-align: center;}
+.footer_area .footer_logo a{}
+.footer_area .footer_logo a img{height: 80px;}
+.footer_area .copyright_area{width: 100%; overflow: hidden; text-align: center;}
+.footer_area .copyright_area p{color: #6a3144; font-size: 14px; text-transform: uppercase; margin-bottom: 0;}
